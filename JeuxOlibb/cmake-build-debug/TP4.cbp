@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TP4"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TP4">
+				<Option output="C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/cmake-build-debug/TP4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.1.0/include"/>
+					<Add directory="D:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.1.0/../../../../include"/>
+					<Add directory="D:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.1.0/include-fixed"/>
+					<Add directory="D:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.1.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="D:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.1.0/../../../../include/c++/6.1.0"/>
+					<Add directory="D:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.1.0/../../../../include/c++/6.1.0/x86_64-w64-mingw32"/>
+					<Add directory="D:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.1.0/../../../../include/c++/6.1.0/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/cmake-build-debug/Makefile&quot;  VERBOSE=1 TP4"/>
+					<CompileFile command="D:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TP4/fast">
+				<Option output="C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/cmake-build-debug/TP4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.1.0/include"/>
+					<Add directory="D:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.1.0/../../../../include"/>
+					<Add directory="D:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.1.0/include-fixed"/>
+					<Add directory="D:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.1.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="D:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.1.0/../../../../include/c++/6.1.0"/>
+					<Add directory="D:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.1.0/../../../../include/c++/6.1.0/x86_64-w64-mingw32"/>
+					<Add directory="D:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.1.0/../../../../include/c++/6.1.0/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/cmake-build-debug/Makefile&quot;  VERBOSE=1 TP4/fast"/>
+					<CompileFile command="D:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/Folder.h">
+			<Option target="TP4"/>
+		</Unit>
+		<Unit filename="C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/Monsters/FlyingCabbage.h">
+			<Option target="TP4"/>
+		</Unit>
+		<Unit filename="C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/Monsters/MinouRapide.h">
+			<Option target="TP4"/>
+		</Unit>
+		<Unit filename="C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/Monsters/Monster.h">
+			<Option target="TP4"/>
+		</Unit>
+		<Unit filename="C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/Monsters/SnowSprites.h">
+			<Option target="TP4"/>
+		</Unit>
+		<Unit filename="C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/Position.h">
+			<Option target="TP4"/>
+		</Unit>
+		<Unit filename="C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/Projectile.h">
+			<Option target="TP4"/>
+		</Unit>
+		<Unit filename="C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/TextFile.h">
+			<Option target="TP4"/>
+		</Unit>
+		<Unit filename="C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/Towers/FlameThrower.h">
+			<Option target="TP4"/>
+		</Unit>
+		<Unit filename="C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/Towers/Tower.h">
+			<Option target="TP4"/>
+		</Unit>
+		<Unit filename="C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/Wave.h">
+			<Option target="TP4"/>
+		</Unit>
+		<Unit filename="C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/WaveStone.h">
+			<Option target="TP4"/>
+		</Unit>
+		<Unit filename="C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/main.cpp">
+			<Option target="TP4"/>
+		</Unit>
+		<Unit filename="C:/Users/remym/Desktop/JeuxOlibb 1.4/JeuxOlibb 1.3/JeuxOlibb/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
